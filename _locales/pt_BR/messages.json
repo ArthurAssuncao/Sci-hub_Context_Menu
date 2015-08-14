@@ -1,0 +1,14 @@
+{
+    "id": {
+        "message": "24de45c859d50836035e3670ab99882a",
+        "description": "md5 do nome da extensao em pt-br"
+    },
+    "name": {
+        "message": "Menu de contexto Sci-Hub.org",
+        "description": "Nome da extensao"
+    },
+    "description": {
+        "message": "Adiciona um menu de contexto para abrir artigos pelo sci-hub.org",
+        "description": "Descricao da extensao"
+    }
+}
