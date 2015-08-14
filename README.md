@@ -15,13 +15,13 @@ Atenção: esta é uma extensão não-oficial e é apenas uma ferramenta para fa
 
 ## Como usar:
 - Se estiver na página do artigo que quer abrir:
--- Clique em qualquer lugar da página com o botão direito do mouse, vá em Sci-Hub Context Menu e clicar em Abrir esta página no Sci-Hub.org ou em Abrir esta página no Sci-Hub.org na mesma aba, se preferir.
+ - Clique em qualquer lugar da página com o botão direito do mouse, vá em **Sci-Hub Context Menu** e clique em **Abrir esta página no Sci-Hub.org** ou em **Abrir esta página no Sci-Hub.org na mesma aba**, se preferir.
 - Se estiver com o cursor sobre o link do artigo que quer abrir:
--- Clique no link com o botão direito do mouse, vá em Abrir link no Sci-Hub.org
+ - Clique no link com o botão direito do mouse, vá em **Abrir link no Sci-Hub.org**.
 
 ## Change log:
 0.1.0
-- Extensão criada
+- Extensão criada.
 
 ### PERMISSOES
 As mensagens mostradas pelo Google Chrome para as permissões solicitadas está muito longe das necessidades reais da extensão, mas as permissões são tecnicamente necessárias pelas seguintes razões:
