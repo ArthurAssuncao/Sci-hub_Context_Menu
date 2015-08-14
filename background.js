@@ -49,9 +49,9 @@ function createContextMenu(){
                 'http://*/*',
                 'https://*/*'
             ];
-    var title_link = 'Abrir no sci-hub.org';
-    var title_page = 'Abrir esta página no sci-hub.org';
-    var title_page_in = 'Abrir esta página no sci-hub.org na mesma aba';
+    var title_link = 'Abrir link no Sci-Hub.org';
+    var title_page = 'Abrir esta página no Sci-Hub.org';
+    var title_page_in = 'Abrir esta página no Sci-Hub.org na mesma aba';
     chrome.contextMenus.create({
         id: MENU_ID_LINK,
         title: title_link, 

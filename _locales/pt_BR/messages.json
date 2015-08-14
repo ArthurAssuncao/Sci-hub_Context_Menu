@@ -1,14 +1,14 @@
 {
     "id": {
-        "message": "24de45c859d50836035e3670ab99882a",
-        "description": "md5 do nome da extensao em pt-br"
+        "message": "42c6a7a8d815dbbf87b35279f11700b6",
+        "description": "md5 do nome da extensão em pt-br"
     },
     "name": {
-        "message": "Menu de contexto Sci-Hub.org",
-        "description": "Nome da extensao"
+        "message": "Menu de Contexto Sci-Hub",
+        "description": "Nome da extensão"
     },
     "description": {
-        "message": "Adiciona um menu de contexto para abrir artigos pelo sci-hub.org",
-        "description": "Descricao da extensao"
+        "message": "Adiciona um menu de contexto para abrir artigos disponíveis no sci-hub.org",
+        "description": "Descricao da extensão"
     }
 }
