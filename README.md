@@ -8,10 +8,10 @@ Para usar esta extensão, basta ir para a página do artigo e clique no botão d
 Atenção: esta é uma extensão não-oficial e é apenas uma ferramenta para facilitar o uso do serviço.
 
 ## URL para instalar no Google Chrome
-[<img src="http://www.google.com/intl/pt-BR/chrome/assets/consumer/images/delorean/122010_webstore.jpg" height=30px />  Menu de Contexto Sci-Hub na Google Chrome Store](URL_CHROME_STORE)
+[<img src="http://www.google.com/intl/pt-BR/chrome/assets/consumer/images/delorean/122010_webstore.jpg" height=30px />  Menu de Contexto Sci-Hub na Google Chrome Store](https://chrome.google.com/webstore/detail/menu-de-contexto-sci-hub/ikeafidemepjaelcjhfdjapoldagkedm)
 
 ## Funções:
-- Permite acesso mais rápido a artigo pelo Sci-Hub.
+- Permite acesso mais rápido a artigo disponíveis no Sci-Hub.
 
 ## Como usar:
 - Se estiver na página do artigo que quer abrir:
