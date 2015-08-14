@@ -30,3 +30,6 @@ As mensagens mostradas pelo Google Chrome para as permissões solicitadas está 
 
 ### LICENSE
 O Menu de Contexto Sci-Hub é gratuito.
+
+### LEGAL
+O Menu de Contexto Sci-Hub é um projeto independente e não tem qualquer filiação/relação com o website sci-hub.org.
