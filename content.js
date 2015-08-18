@@ -24,7 +24,7 @@ function fireContentLoadedEvent () {
 
     var topo = document.getElementById('top');
     var pdf = document.getElementsByTagName('iframe')[0];
-    if(pdf != 'undefined'){
+    if(pdf != 'undefined' && (pdf.src.lastIndexOf('pdf')+3 == pdf.src.length || pdf.src.lastIndexOf('PDF')+3 == pdf.src.length)){
         var pdf_link = pdf.getAttribute('src');
 
         var button_download = document.createElement("DIV");
