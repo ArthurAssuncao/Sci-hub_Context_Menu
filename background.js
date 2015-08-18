@@ -73,12 +73,6 @@ function createContextMenu(){
         documentUrlPatterns: patterns
         //onclick: open,
     });
-    // chrome.contextMenus.create({
-    //     id: MENU_ID_SELECTION,
-    //     title: title, 
-    //     contexts:["selection"], 
-    //     //onclick: open,
-    // });
 }
 
 function removeAllContextMenus() {

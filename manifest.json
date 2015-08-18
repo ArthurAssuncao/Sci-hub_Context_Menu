@@ -1,10 +1,17 @@
 {
   "name": "__MSG_name__",
   "description": "__MSG_description__",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "permissions": [
     "<all_urls>",
     "contextMenus"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.sci-hub.org/*"],
+      "run_at": "document_start",
+      "js": ["content.js"]
+    }
   ],
   "background": {
     "scripts": ["background.js"],

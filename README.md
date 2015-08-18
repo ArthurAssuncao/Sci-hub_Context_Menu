@@ -20,6 +20,9 @@ Atenção: esta é uma extensão não-oficial e é apenas uma ferramenta para fa
  - Clique no link com o botão direito do mouse, vá em **Abrir link no Sci-Hub.org**.
 
 ## Change log:
+0.1.1
+- Adicionado: botão para download do paper em pdf na tela de visualização do pdf.
+
 0.1.0
 - Extensão criada.
 
