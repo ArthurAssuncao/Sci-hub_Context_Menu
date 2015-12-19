@@ -30,7 +30,7 @@ function open(info, tab) {
     // alert(url);
     
     if(partes != null){
-        var url_new = partes[1] + "://" + partes[2] + ".sci-hub.org/" + partes[3];
+        var url_new = partes[1] + "://" + partes[2] + ".sci-hub.io/" + partes[3];
 
         if(info.menuItemId == MENU_ID_PAGE_MESMA_ABA){
             chrome.tabs.update(tab.id, {url: url_new});
@@ -49,9 +49,9 @@ function createContextMenu(){
                 'http://*/*',
                 'https://*/*'
             ];
-    var title_link = 'Abrir link no Sci-Hub.org';
-    var title_page = 'Abrir esta página no Sci-Hub.org';
-    var title_page_in = 'Abrir esta página no Sci-Hub.org na mesma aba';
+    var title_link = 'Abrir link no Sci-Hub';
+    var title_page = 'Abrir esta página no Sci-Hub';
+    var title_page_in = 'Abrir esta página no Sci-Hub na mesma aba';
     chrome.contextMenus.create({
         id: MENU_ID_LINK,
         title: title_link, 
