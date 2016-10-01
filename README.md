@@ -1,7 +1,7 @@
 # Menu de Contexto Sci-Hub
-Adiciona um menu de contexto para abrir artigos pelo sci-hub.io.
+Adiciona um menu de contexto para abrir artigos pelo sci-hub.cc.
 
-Sci-Hub é um serviço que oferece acesso gratuito a artigos científicos, disponíveis em sci-hub.io.
+Sci-Hub é um serviço que oferece acesso gratuito a artigos científicos, disponíveis em sci-hub.cc.
 
 Para usar esta extensão, basta ir para a página do artigo e clique no botão de extensão. Você será redirecionado para a mesma página, mas com acesso ao artigo.
 
@@ -21,7 +21,7 @@ Atenção: esta é uma extensão não-oficial e é apenas uma ferramenta para fa
 
 ## Change log:
 0.1.2
-- Atualizado: para novo dominio do Sci-hub, o sci-hub.io.
+- Atualizado: para novo dominio do Sci-hub, o sci-hub.cc.
 
 0.1.1
 - Adicionado: botão para download do paper em pdf na tela de visualização do pdf.
@@ -38,4 +38,4 @@ As mensagens mostradas pelo Google Chrome para as permissões solicitadas está 
 O Menu de Contexto Sci-Hub é gratuito.
 
 ### LEGAL
-O Menu de Contexto Sci-Hub é um projeto independente e não tem qualquer filiação/relação com o website sci-hub.io.
+O Menu de Contexto Sci-Hub é um projeto independente e não tem qualquer filiação/relação com o website sci-hub.cc.

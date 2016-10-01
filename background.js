@@ -28,9 +28,9 @@ function open(info, tab) {
     var regex = '(https?):\/\/([^\/]*)\/(.*)';
     var partes = url.match(regex);
     // alert(url);
-    
+
     if(partes != null){
-        var url_new = partes[1] + "://" + partes[2] + ".sci-hub.io/" + partes[3];
+        var url_new = partes[1] + "://" + partes[2] + ".sci-hub.cc/" + partes[3];
 
         if(info.menuItemId == MENU_ID_PAGE_MESMA_ABA){
             chrome.tabs.update(tab.id, {url: url_new});
@@ -54,22 +54,22 @@ function createContextMenu(){
     var title_page_in = 'Abrir esta página no Sci-Hub na mesma aba';
     chrome.contextMenus.create({
         id: MENU_ID_LINK,
-        title: title_link, 
-        contexts:["link"], 
+        title: title_link,
+        contexts:["link"],
         targetUrlPatterns: patterns
         //onclick: open,
     });
     chrome.contextMenus.create({
         id: MENU_ID_PAGE_OUTRA_ABA,
-        title: title_page, 
-        contexts:["page"], 
+        title: title_page,
+        contexts:["page"],
         documentUrlPatterns: patterns
         //onclick: open,
     });
     chrome.contextMenus.create({
         id: MENU_ID_PAGE_MESMA_ABA,
-        title: title_page_in, 
-        contexts:["page"], 
+        title: title_page_in,
+        contexts:["page"],
         documentUrlPatterns: patterns
         //onclick: open,
     });
